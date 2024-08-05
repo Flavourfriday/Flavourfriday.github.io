@@ -1,0 +1,30 @@
+Index.html
+
+< DOCTYPE html>
+<html lang="en">
+‹head>
+‹meta charset="UTF-8">
+‹meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Restaurant</title>
+‹link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/
+tailwind.min.css" rel="stylesheet">
+</head> <body>
+‹header class="bg-gray-800 text-white p-4">
+<h1 class="text-3x]">Welcome to Our Restaurant</h1>
+<nav>
+‹a href="index.html" class="mr-4">Home</a>
+‹a href="menu.html" class="mr-4">Menu</a>
+‹a href="cart.html">Cart</a>
+</nav>
+</header>
+‹main class="p-4">
+‹section>
+<h2 class="text-2x1 mb-4">About Us</h2>
+<p>Welcome
+1=0
+our restaurant. We offer a variety of delicious dishes
+to satisfy your cravings.</p>
+</ section>
+«footer clast"bg-gray-808 text-white p-s m-4 text-center"s
+&copy; 2024 Our Restaurant </footer>
+</body> </html>

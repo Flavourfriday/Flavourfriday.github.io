@@ -1,0 +1,35 @@
+Cart.html
+
+
+<! DOCTYPE html>
+<html lang="en">
+‹head>
+‹meta
+charset="UTF-8">
+‹meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+<title>Cart</tatle>
+‹link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/
+tailwind.min.css" rel="stylesheet">
+‹script defer sro="cart.js"></script>
+</head>
+<body>
+‹header class="bg-gray-800 text-white p-4">
+<h1 class="text-3x]">Your Cart</h1>
+‹nav>
+‹a href="index.html" class="mr-4">Home</a>
+‹a href="menu.html" class="mr-4">Menu</a>
+‹a href="cart.html">Cart</a>
+</nav>
+</header>
+‹main class="p-4">
+‹section id="cart-items" class="mb-4">
+Cart items will be dynamically added here -->
+</section>
+‹button id="checkout" class="bg-green-500 text-white p-2">Checkout</
+button>
+</main>
+< footer class="bg-gray-800 text-white p-4 mt-4 text-center">
+&copy: 2024 Our Restaurant
+</footer>
+</body> </html>
