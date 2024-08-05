@@ -1,4 +1,4 @@
-Cart.js
+
 
 document.addEventListener('DOMContentLoaded', () => {
     const cartContainer = document.getElementById('cart-items');
